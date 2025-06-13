@@ -1,4 +1,7 @@
-"""1) Dado el diccionario precios_frutas """
+"""1) Dado el diccionario precios_frutas Añadir las siguientes frutas con sus respectivos precios: 
+● Naranja = 1200 
+● Manzana = 1500 
+● Pera = 2300  """
 
 precios_frutas = {'Banana': 1200, 'Anana': 2500, 'Melon': 3000, 'Uva': 1450}
 
